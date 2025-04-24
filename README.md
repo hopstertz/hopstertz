@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Hopstertz!
 
+![MONSTER](https://readme-typing-svg.herokuapp.com/?color=red&center=true&vCenter=true&lines=WELCOME+TO+THE+MONSTER+REPO;CODE+HARD.+FIX+BUGS.+LEVEL+UP.;JOIN+THE+CODE.+CONTROL+THE+SYSTEM)
+----
 [![GitHub followers](https://img.shields.io/github/followers/hopstertz?label=Follow&style=social)](https://github.com/hopstertz)
 [![Profile Views](https://komarev.com/ghpvc/?username=hopstertz&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/hopstertz)
 
